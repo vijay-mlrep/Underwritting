@@ -1,4 +1,4 @@
-# Underwritting
+# Underwritting of Loan Application
 
 
 Our main objective in this project is to build a Machine Learning Model to determine whether we should lend money to a customer, given various budget and/or risk constraints. Most of the profits made by banks are by investing money in people or companies, and gaining profit from interest paid. It is crucial to know the investment risk of each customer before we provide him/her with a loan.
